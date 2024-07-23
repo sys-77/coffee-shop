@@ -1,0 +1,6 @@
+Monday, July 22, 2024: 2hr
+Tuesday, July 23, 2024: 1hr
+
+
+
+- create .png -> turn it into .svg (web app like picsvg) -> import into blender
